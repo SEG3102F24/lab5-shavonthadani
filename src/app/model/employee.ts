@@ -6,5 +6,5 @@ export class Employee {
     public salary: number,
     public gender?: string,
     public email?: string
-  ) {}
+  ) { }
 }
